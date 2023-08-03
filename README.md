@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Olá, bem vindo(a) ao meu perfil!</h1>
+<p align="center">
+  <img alt="GIF" width="250px" height="200px" src="https://media2.giphy.com/media/26gsvCk59AwGX28XS/giphy.gif" />
+</p>
+<p align="center">Você chegou a um checkpoint. Pegue sua poção e descanse, guerreiro(a).</p>
+
+
+
 
 <!--
 **gustavomorais-dev/gustavomorais-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
