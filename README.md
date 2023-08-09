@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gustavohgmorais/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>     <a href="https://gustavomorais-dev.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>     <a href="https://wa.me/5538992235044" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+<p align="center"> gustavomorais.dev@gmail.com </p>
 <br/>
 
 <h2 align="center">Principais tecnologias</h1>
