@@ -55,7 +55,7 @@ Se quiser saber mais sobre minhas experiências anteriores, fique à vontade par
 <h2 align="center"><a href="https://gustavomorais-dev.github.io/" target="_blank">Portfólio Web</a></h1>
 <br/><br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomorais-dev&layout=compact&theme=dark&title_color=3498db&text_color=95a5a6&icon_color=2ecc71" alt="Top Langs">
+  <img src="https://github-readme-stats-five-rho-34.vercel.app/api/top-langs/?username=gustavomorais-dev&layout=compact&theme=dark&title_color=3498db&text_color=95a5a6&icon_color=2ecc71" alt="Top Langs">
 </p>
 
 
